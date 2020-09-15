@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1600126053 source:d:\utn\[ayed] algoritmos y estructura de datos\tp 1\base tp 1\main.cpp
+	<iostream>
+	<locale.h>
+	<conio.h>
+	<wchar.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1600122205 source:c:\users\pipec\onedrive\desktop\tp_12-09-2020\base tp 1\main.cpp
+	<iostream>
+	<locale.h>
+	<conio.h>
+	<wchar.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1600127220 source:c:\users\hp\desktop\rocios\facultad\tp\base tp 1\main.cpp
+	<iostream>
+	<locale.h>
+	<conio.h>
+	<wchar.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
